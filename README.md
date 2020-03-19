@@ -1,2 +1,2 @@
-# PHP-Prof2
+# profit.loc
 PHP repository
